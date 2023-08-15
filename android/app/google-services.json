@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299399344807",
+    "project_id": "adil-26a27",
+    "storage_bucket": "adil-26a27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299399344807:android:40cadb36bf3a43b7eb6182",
+        "android_client_info": {
+          "package_name": "com.firstlogicmetalab.new_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299399344807-m8p101g17kqkeqktllpv9edmsepk86bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADCLBoLfEWYGwiX0BMauk8SvJrNmlL-ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299399344807-m8p101g17kqkeqktllpv9edmsepk86bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
